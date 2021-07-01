@@ -244,6 +244,7 @@ You can learn more about the applications of chainlink by reading [the developer
 ## Oracle services {#other-services}
 
 - [Chainlink](https://chain.link/)
+- [Paralink](https://paralink.network/)
 - [Witnet](https://witnet.io/)
 - [Provable](https://provable.xyz/)
 
